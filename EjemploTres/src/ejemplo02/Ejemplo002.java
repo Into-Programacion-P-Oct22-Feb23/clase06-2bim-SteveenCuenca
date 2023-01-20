@@ -16,6 +16,6 @@ public class Ejemplo002 {
     public static void main(String[] args) {
         int v = RandomUtils.nextInt(20, 25);
         
-        System.out.printf("%d", v);
+        System.out.printf("%d\n", v);
     }
 }
